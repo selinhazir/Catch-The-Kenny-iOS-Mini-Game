@@ -18,3 +18,10 @@ Through this project, I practiced:
 - Handling **UIImageView** and **UITapGestureRecognizer**.
 - Managing asynchronous tasks with **NSTimer**.
 - Designing responsive layouts with **Auto Layout**.
+
+  
+## Resultsonuç
+
+
+https://github.com/user-attachments/assets/1c32a3f1-7c94-46e2-a983-494f33ec8de3
+
